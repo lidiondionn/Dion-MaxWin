@@ -188,7 +188,7 @@ nav {
 
 .header__image::after {
   position: absolute;
-  content: "CATHERINE";
+  content: "D i o n";
   letter-spacing: 1.5rem;
   opacity: 0.5;
   right: 1rem;
@@ -309,7 +309,6 @@ nav {
   font-size: 1.2rem;
   font-weight: 600;
 }
-
 .portfolio__banner__card p {
   font-weight: 500;
 }
